@@ -1,0 +1,38 @@
+# GitHub
+DOMAIN-KEYWORD,github
+DOMAIN-SUFFIX,trafficmanager.net
+DOMAIN-SUFFIX,vsassets.io
+DOMAIN-SUFFIX,visualstudio.com
+DOMAIN-SUFFIX,vscode-cdn.net
+DOMAIN-SUFFIX,vscode-unpkg.net
+
+# GitBook
+DOMAIN-SUFFIX,gitbook.io
+
+# SourceForge
+DOMAIN-SUFFIX,sourceforge.net
+
+# Docker
+DOMAIN-SUFFIX,docker.com
+DOMAIN-SUFFIX,play-with-docker.com
+
+# GitLab
+DOMAIN-KEYWORD,gitlab
+
+# Java
+DOMAIN-SUFFIX,apache.org
+DOMAIN-SUFFIX,spring.io
+
+# Go
+DOMAIN-SUFFIX,go.dev
+DOMAIN-SUFFIX,golang.org
+
+# Python
+DOMAIN-SUFFIX,pypi.org
+DOMAIN-SUFFIX,python.org
+
+# Rust
+DOMAIN-SUFFIX,rust-lang.org
+
+# JetBrains
+DOMAIN-KEYWORD,jetbrains
